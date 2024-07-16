@@ -1,2 +1,2 @@
 # Guessing-game
-create a Number Guessing Game
+Create a Number Guessing Game
